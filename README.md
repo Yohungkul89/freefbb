@@ -10,4 +10,4 @@ $cd freefbb
 
 $git pull
 
-$ python xxx.py
+$python xxx.py
