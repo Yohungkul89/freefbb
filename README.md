@@ -1,13 +1,13 @@
-$pkg update && pkg upgrade
+pkg update && pkg upgrade
 
-$pkg install python git
+pkg install python git
 
-$pip install requests bs4 futures
+pip install requests bs4 futures
 
-$git clone https://github.com/Yohungkul89/freefbb.git
+git clone https://github.com/Yohungkul89/freefbb.git
 
-$cd freefbb
+cd freefbb
 
-$git pull
+git pull
 
-$python xxx.py
+python xxx.py
